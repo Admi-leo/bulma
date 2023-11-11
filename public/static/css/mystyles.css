@@ -1,0 +1,43 @@
+.user-avatar {
+  width: 15%;
+  height: 20%;
+}
+.column.is-half, .column.is-half-tablet {
+  margin-top: 20px;
+}
+.hero.is-medium .hero-body {
+  padding-bottom: 3rem !important;
+  padding-top: 3rem !important;
+}
+
+.d-flex {
+  display: flex;
+}
+.mr-2 {
+  margin-right: 12px;
+}
+
+.my-photo li {
+  list-style: none;
+  font-size: 70%;
+}
+
+.btn-sm {
+  padding: 0;
+  width: 40px;
+}
+.pagination {
+  justify-content: center !important;
+}
+.card-content {
+  padding: 1rem;
+}
+.content-block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-bor {
+  border: solid 1px #01D1B2;
+  border-radius: 1px;
+}
